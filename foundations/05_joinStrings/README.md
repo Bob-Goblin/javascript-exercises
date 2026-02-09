@@ -8,7 +8,7 @@ npm test joinStrings-example.spec.js
 If you saw anything unexpected, feel free to review the code again.
 
 ## Step 2: Do
-After understanding the example code, you will recreate the snippet on your own using the following instructions (in `joinStrings.js`):
+After understanding the example code, you will recreate the snippet on your own using the following instructions (in 0`joinStrings.js`):
 
 1. Create 4 variables: `firstName`, `lastName`, `thisYear`, and `birthYear`
 
